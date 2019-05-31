@@ -1,0 +1,17 @@
+
+  <http://example.org/Richard> ab:lastname "Mutt".
+  <http://example.org/Richard> ab:email "richard49@hotmail.com".
+  <http://example.org/Richard> ab:hometel "(229) 276-5135".
+  <http://example.org/Richard> ab:email "rich".
+  
+  
+  <http://example.org/Cindy> ab:lastname "Marshall".
+  <http://example.org/Cindy> ab:email "Cindy@gmail.com".
+  <http://example.org/Cindy> ab:hometel "(245) 646-5488".
+  <http://example.org/Cindy> ab:email "Dolly".
+
+  
+  <http://example.org/Craig> ab:lastname "Ellis".
+  <http://example.org/Cindy> ab:email "Craigeellis@yahoo.com".
+  <http://example.org/Cindy> ab:hometel "(245) 315-5486".
+  <http://example.org/Cindy> ab:email "carl".
